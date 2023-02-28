@@ -2,7 +2,7 @@
 
 
 ## Complete the following steps to complete the project: 
-
+SSS
 ### Step 1️⃣:
 1. Create a new git repo on your computer
 2. Create a file called `index.html`
